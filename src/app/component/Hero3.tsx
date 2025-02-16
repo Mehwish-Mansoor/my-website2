@@ -27,13 +27,13 @@ export default function Hero3 (){
             </div>
 
             <div>
-              <img className="w-100%"  src="/Outdoor bar table and stool 1 (1).png"  alt="" /> 
+              <img className="w-100%"  src="/Outdoor bar table and stool 1.png"  alt="image" /> 
               <h1 className="">hhhhh</h1> 
               <p className="">Find a brigh</p>
             </div>
 
             <div>
-              <img className="w-100%"  src="/Outdoor bar table and stool 1 (1).png"  alt="" /> 
+              <img className="w-100%"  src="/Plain console with teak mirror 1 (1).png"  alt="image" /> 
               <h1 className="">hhhhh</h1> 
               <p className="">Find a brigh</p>
             </div>

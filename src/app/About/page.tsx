@@ -1,5 +1,5 @@
-export default function About(){
+export default function(){
     return(
-        <h1>hjjjjjjjjjjjj</h1>
+        <h1 className="text-36 font-poppins">hhhhhhhhhhhhhhhhh</h1>
     )
 }
